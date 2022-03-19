@@ -31,7 +31,7 @@ amass enum -d $1 >> results2
 
 echo ""
 
-cat results results1 results2 >> AllSubdomains | sort -u AllSubdomains | rm results results1 results2
+cat results results1 results2 >> AllSubdomains | sort -u AllSubdomains
 
 
 echo ""
