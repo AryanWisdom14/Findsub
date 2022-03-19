@@ -1,5 +1,9 @@
 #!/bin/bash
 
+banner FINDSUB
+
+
+
 echo " Findsub is a Tool That Find Subdomains Automation SCript By NeuRosis(Aryan)"
 
 
